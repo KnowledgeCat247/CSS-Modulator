@@ -1,0 +1,28 @@
+#menu
+{
+  background: rgb(0,0,0);
+  border: 10px solid rgb(251, 194, 96);
+  text-align: left;
+  color: white;
+  position: relative;
+  margin-left:1200px;
+  padding-bottom: 420px;
+}
+
+#menu .text, #menu #voxelCreate, #menu
+{
+  border-radius:5px;
+}
+
+#menu .text
+{
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+#menu #voxelCreate 
+{
+  color: white;
+  background-color: rgb(0, 163, 3);
+  margin-bottom: 5px;
+}
